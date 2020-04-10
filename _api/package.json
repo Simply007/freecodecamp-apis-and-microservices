@@ -11,5 +11,8 @@
     "example",
     "submission"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "2.14.0"
+  }
 }
