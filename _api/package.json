@@ -2,5 +2,13 @@
   "name": "@simply007org/freecodecamp-apis-and-microservices",
   "version": "0.1.0",
   "author": "Ondřej Chrastina",
-  "description": "freeCodeCamp sample node project"
+  "description": "freeCodeCamp sample node project",
+  "keywords": [
+    "sample",
+    "freecodecamp",
+    "node",
+    "packages",
+    "example",
+    "submission"
+  ]
 }
